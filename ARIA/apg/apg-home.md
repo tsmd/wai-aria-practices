@@ -53,13 +53,13 @@ lang: en
           <div class="top-box">
             <div class="top-detail-1 detail-1"></div>
             <div class="detail-2"></div>
-            <h1>ARIA Authoring Practices Guide (APG) Home</h1>
+            <h1>ARIAオーサリングプラクティスガイド（APG）ホーム</h1>
             <p>
-        Learn to use the accessibility semantics defined by the Accessible Rich Internet Application (ARIA) specification to create accessible web experiences.
-        This guide describes how to apply accessibility semantics to common design patterns and widgets.
-        It provides design patterns and functional examples complemented by in-depth guidance for fundamental practices.
+        アクセシブル・リッチ・インターネット・アプリケーション（ARIA）仕様で定義されたアクセシビリティ・セマンティクスを使用して、アクセシブルなWebエクスペリエンスを作成する方法を紹介します。
+        このガイドでは、一般的なデザインパターンとウィジェットにアクセシビリティ・セマンティクスを適用する方法について説明します。
+        デザインパターンと機能的な例を提供し、基本的な実践方法に関する詳細なガイダンスを補足しています。
       </p>
-            <a href="patterns/" class="button-link button-link-white">View Patterns</a>
+            <a href="patterns/" class="button-link button-link-white">パターンを見る</a>
           </div>
           <img alt="A laptop screen fills with an accessibility icon and emits a checkmark." src="../../content-images/wai-aria-practices/images/index-1.svg">
         </div>
